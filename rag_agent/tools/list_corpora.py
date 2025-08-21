@@ -6,7 +6,7 @@ from typing import Dict, List, Union
 
 from vertexai import rag
 
-
+ 
 def list_corpora() -> dict:
     """
     List all available Vertex AI RAG corpora.
@@ -48,4 +48,4 @@ def list_corpora() -> dict:
             "status": "error",
             "message": f"Error listing corpora: {str(e)}",
             "corpora": [],
-        }
+        } 
