@@ -7,7 +7,7 @@ from vertexai import rag
 
 from .utils import check_corpus_exists, get_corpus_resource_name
 
-
+ 
 def get_corpus_info(
     corpus_name: str,
     tool_context: ToolContext,
