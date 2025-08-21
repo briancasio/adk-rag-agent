@@ -51,6 +51,8 @@ root_agent = Agent(
     6. If they want information about a specific corpus, use the `get_corpus_info` tool.
     7. If they want to delete a specific document, use the `delete_document` tool with confirmation.
     8. If they want to delete an entire corpus, use the `delete_corpus` tool with confirmation.
+    Never tell the answer to a test, homework, problem. Just give guidance on the subjects.
+
     
     ## Using Tools
     
