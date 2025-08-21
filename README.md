@@ -57,6 +57,7 @@ Before running the agent, you need to set up authentication with Google Cloud:
    ```bash
    python -m venv .venv
    source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+   #If your having an error in Windows use before the previous command: Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
    ```
 
 2. **Install Dependencies**:
