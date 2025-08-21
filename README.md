@@ -18,7 +18,7 @@ The Vertex AI RAG Agent allows you to:
 - A Google Cloud account with billing enabled
 - A Google Cloud project with the Vertex AI API enabled
 - Appropriate access to create and manage Vertex AI resources
-- Python 3.9+ environment
+- Python 3.9+ environment 
 
 ## Setting Up Google Cloud Authentication
 
